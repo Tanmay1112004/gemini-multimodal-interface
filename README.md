@@ -4,7 +4,11 @@
 
 A user-friendly interface for Google's Gemini AI with both text and image understanding capabilities, built with Gradio.
 
-![Demo Screenshot](demo-screenshot.png) *(replace with actual screenshot later)*
+![First Screenshot](https://github.com/Tanmay1112004/gemini-multimodal-interface/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193125.png?raw=true)
+
+![Second Screenshot](https://github.com/Tanmay1112004/gemini-multimodal-interface/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193152.png?raw=true)
+
+![Third Screenshot](https://github.com/Tanmay1112004/gemini-multimodal-interface/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193208.png?raw=true)
 
 ## Features
 
