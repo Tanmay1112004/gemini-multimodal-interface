@@ -6,6 +6,11 @@ Built with **Python + Gradio**, this project demonstrates practical implementati
 
 ---
 
+# Demo Images
+
+
+---
+
 ## 🚀 Features
 
 * 🖊️ AI-powered text generation using Gemini 1.5 Flash
