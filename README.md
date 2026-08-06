@@ -150,3 +150,5 @@ Open to opportunities in:
 ## 📜 License
 
 MIT License
+
+---
