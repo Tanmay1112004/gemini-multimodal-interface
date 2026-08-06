@@ -73,7 +73,7 @@ gemini-multimodal-interface/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com//gemini-multimodal-interface.git
+git clone https://github.com/Tanmay1112004/gemini-multimodal-interface.git
 cd gemini-multimodal-interface
 ```
 
